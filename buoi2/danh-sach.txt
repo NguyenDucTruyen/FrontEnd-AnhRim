@@ -1,2 +1,5 @@
-nguyen duc truyen 2,21,fe
-nguyen duc truyen 2,21,fe
+Male Or Female,21,fe
+nguyen duc truyen,20,fe
+Nguyen Tun Kit,21,FullStack Dev
+Huynh Trong Khoa,21,Lam chi cung duoc
+Kao Tun Ciet,21,Tho dung
