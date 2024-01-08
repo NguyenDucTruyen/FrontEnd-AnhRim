@@ -4,3 +4,5 @@ Huynh Trong Khoa,21,BE Dev
 Kao Tun Ciet,21,FE Dev
 Vo Thi Thuy Duong,20,Ny Truyen
 Nguyen Thuy Nga,20,Ban Truyen
+Truyen Duc,20,Tau Hai
+Truong Bao Phuc,21,FE Dev
